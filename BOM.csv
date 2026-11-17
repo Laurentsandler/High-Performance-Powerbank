@@ -1,0 +1,16 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Manufacturer,Supplier,Supplier Part,Price,Pins,3DModel,Contributor,JLCPCB Part Class,Value,Link
+1,IP2368_BZ,U1,QFN-48_7x7mm_P0.5mm,1,IP2368_BZ,INJOINIC,LCSC,C2913162,2.850,48,QFN-48_7x7mm,lcsc,Extended Part,,https://www.lcsc.com/product-detail/Battery-Management-ICs_INJOINIC-IP2368_C2913162.html
+2,AON6512,Q1-Q4,DFN-8(5x6),4,AON6512,AOS,LCSC,C148383,0.380,8,DFN-8_5x6mm,lcsc,Basic Part,,https://www.lcsc.com/product-detail/MOSFETs_AOS-AON6512_C148383.html
+3,10uH Shielded Inductor,L1,IND-SMD_12.5x12.5mm,1,CDRH127/LDNP-100MC,Sumida,LCSC,C136894,0.420,2,IND-SMD_12.5x12.5mm,lcsc,Extended Part,10uH,https://www.lcsc.com/product-detail/Inductors-SMD_Sumida-CDRH127-LDNP-100MC_C136894.html
+4,10mΩ Current Shunt 2512,"R_VBUS,R_BAT",R2512,2,LR2512-23R010F4,Uniroyal,LCSC,C111195,0.065,2,R2512,lcsc,Basic Part,10mΩ,https://www.lcsc.com/product-detail/Current-Sense-Resistors-SMD_Uniroyal-LR2512-23R010F4_C111195.html
+5,22uF 25V X7R 1206,"C1,C2,C3,C4,C5,C6",C1206,6,CL31B226KPHNNNE,SAMSUNG,LCSC,C12892,0.045,2,C1206_L3.2-W1.6,lcsc,Basic Part,22uF,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL31B226KPHNNNE_C12892.html
+6,10uF 25V X5R 0805,"C7,C8,C9,C10",C0805,4,CL21A106KAYNNNE,SAMSUNG,LCSC,C15849,0.012,2,C0805_L2.0-W1.25,lcsc,Basic Part,10uF,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15849.html
+7,100nF 50V X7R 0603,"C11,C12,C13,C14",C0603,4,CC0603KRX7R9BB104,YAGEO,LCSC,C14663,0.002,2,C0603_L1.6-W0.8,lcsc,Basic Part,100nF,https://item.szlcsc.com/362304.html
+8,10kΩ 1% 0603,"R1,R2,R3",R0603,3,0603WAF1002T5E,UNI-ROYAL,LCSC,C25804,0.001,2,R0603,lcsc,Basic Part,10kΩ,https://item.szlcsc.com/362304.html
+9,1kΩ 1% 0603,"R4,R5,R6,R7",R0603,4,0603WAF1001T5E,UNI-ROYAL,LCSC,C21190,0.001,2,R0603,lcsc,Basic Part,1kΩ,https://item.szlcsc.com/362304.html
+10,Blue LED 0603,"LED1,LED2,LED3,LED4",LED0603,4,19-217/BHC-ZL1M2RY/3T,EVERLIGHT,LCSC,C72043,0.038,2,LED0603_L1.6-W0.8,lcsc,Extended Part,Blue,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72043.html
+11,SMD Tactile Switch,SW1,SW-SMD_3.0x2.0mm,1,TS-1088-AR02016,XUNPU,LCSC,C720477,0.048,2,SW-SMD_L3.9-W2.9-H2.0,lcsc,Basic Part,KEY,https://item.szlcsc.com/457636.html
+12,USB-C Receptacle 16-Pin,USBC1,USB-C_SMD_TYPE-C-16P,1,KH-TYPE-C-16P,Kinghelm,LCSC,C2765186,0.142,16,USB-C-16P,lcsc,Extended Part,,https://www.lcsc.com/product-detail/USB-Connectors_Kinghelm-KH-TYPE-C-16P_C2765186.html
+13,2S Li-ion Battery Pack 10000mAh,BATT,BATTERY-LEADS,1,2S 7.4V 10000mAh,Custom,Direct,N/A,14.500,2,N/A,User,N/A,10000mAh,https://www.aliexpress.com/
+14,M3x6mm Machine Screw,"SCREW1,SCREW2,SCREW3,SCREW4",M3_SCREW,4,M3-6-ISO7380,Generic,Hardware,N/A,0.050,1,N/A,User,N/A,M3x6,https://www.mcmaster.com/
+15,3D Printed Case & Lid,ENCLOSURE,CUSTOM-CAD,1,Powerbank-Case-V2,Laurent Sandler,Custom,Onshape,1.500,1,N/A,User,N/A,PETG,https://cad.onshape.com/
